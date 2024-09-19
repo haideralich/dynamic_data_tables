@@ -1,5 +1,3 @@
-understand this code
-
 "use strict";
 var KTDatatablesSearchOptionsAdvancedSearch = function () {
 
